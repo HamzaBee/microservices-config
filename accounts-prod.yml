@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}728ffed3629c668243d05e550756ac5060f70f4bb5f7b0bb1de00eed11b7373146b60a7768f62abac6e6cc9a5606e38f"
